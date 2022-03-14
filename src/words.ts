@@ -26,6 +26,7 @@ export function getWordOfTheDay() {
 
 // replaced with 5 letter words from https://www.enchantedlearning.com/wordlist/birds.shtml
 const answers = [
+    'tests',
     'egret',
    'kites',
    'eider',
